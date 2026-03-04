@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    flex-direction: column;
+    margin: 1.5cm;
+    font-family: nunito;
+    
+}
+img{
+height: 300px;
+width: 300px;
+position: relative;
+}
+.foto{
+    float: left;
+}
